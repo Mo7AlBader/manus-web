@@ -1,3 +1,4 @@
+'use client';
 import { getDictionary } from '@/lib/i18n/utils';
 import { MainLayout } from '@/components/layout/main-layout';
 import { 
