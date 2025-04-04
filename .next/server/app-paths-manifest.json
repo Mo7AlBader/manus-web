@@ -1,5 +1,12 @@
 {
-  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/[lang]/blog/[postId]/page": "app/[lang]/blog/[postId]/page.js",
+  "/[lang]/blog/page": "app/[lang]/blog/page.js",
+  "/[lang]/contact/page": "app/[lang]/contact/page.js",
+  "/[lang]/newsletter/page": "app/[lang]/newsletter/page.js",
   "/[lang]/page": "app/[lang]/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/[lang]/services/page": "app/[lang]/services/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[lang]/about/page": "app/[lang]/about/page.js",
+  "/page": "app/page.js"
 }
