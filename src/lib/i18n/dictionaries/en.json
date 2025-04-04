@@ -1,0 +1,43 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Me",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "newsletter": "Newsletter"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to My Digital Universe",
+      "subtitle": "Product Management & Digital Marketing Specialist",
+      "cta": "Explore My Services"
+    },
+    "intro": {
+      "title": "Who Am I?",
+      "description": "I help businesses build, manage, and market digital products that users love. With expertise in product management and digital marketing, I transform ideas into successful digital solutions."
+    },
+    "services": {
+      "title": "My Services",
+      "description": "Specialized services to help your business grow in the digital world",
+      "viewAll": "View All Services"
+    },
+    "blog": {
+      "title": "Latest Articles",
+      "description": "Insights and knowledge about product management and digital marketing",
+      "readMore": "Read More",
+      "viewAll": "View All Articles"
+    },
+    "newsletter": {
+      "title": "Join My Newsletter",
+      "description": "Get the latest insights on product management and digital marketing delivered to your inbox",
+      "placeholder": "Your email address",
+      "button": "Subscribe",
+      "thanks": "Thanks for subscribing!"
+    }
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "follow": "Follow Me"
+  }
+}
